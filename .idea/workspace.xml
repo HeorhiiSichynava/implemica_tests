@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1715906f-27f0-4a42-8ced-a34a3d0494f7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vwjdsiHXuCbJh97qYEis6mcGx8" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main_app (1)">
+    <configuration name="Main_App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.implemica.work.app_3.Main_App" />
+      <module name="implemica_tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.implemica.work.app_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_app (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.implemica.work.app_1.Main_app" />
+      <module name="implemica_tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.implemica.work.app_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_app" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.implemica.work.app_2.Main_app" />
+      <module name="implemica_tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.implemica.work.app_2.City.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_app" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.implemica.work.app_1.Main_app" />
+      <module name="implemica_tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.implemica.work.app_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main_app (1)" />
+        <item itemvalue="Application.Main_app" />
+        <item itemvalue="Application.Main_App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1715906f-27f0-4a42-8ced-a34a3d0494f7" name="Default Changelist" comment="" />
+      <created>1627480135893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627480135893</updated>
+      <workItem from="1627480137849" duration="1069000" />
+      <workItem from="1627484026101" duration="1676000" />
+      <workItem from="1627486136551" duration="1142000" />
+      <workItem from="1627519753078" duration="1085000" />
+      <workItem from="1627549459084" duration="1620000" />
+      <workItem from="1627551171887" duration="1622000" />
+      <workItem from="1627556469169" duration="1778000" />
+      <workItem from="1627558294771" duration="773000" />
+      <workItem from="1627562120561" duration="757000" />
+      <workItem from="1627564052821" duration="1780000" />
+      <workItem from="1627565900468" duration="1854000" />
+      <workItem from="1627586116049" duration="2020000" />
+      <workItem from="1627592558756" duration="2021000" />
+      <workItem from="1627594628072" duration="782000" />
+      <workItem from="1627600034770" duration="8000" />
+      <workItem from="1627626444435" duration="1319000" />
+      <workItem from="1627630891038" duration="1762000" />
+      <workItem from="1627632983273" duration="700000" />
+      <workItem from="1627638611451" duration="1778000" />
+      <workItem from="1627640490931" duration="2015000" />
+      <workItem from="1627642889295" duration="1795000" />
+      <workItem from="1627644702412" duration="1385000" />
+      <workItem from="1627646515078" duration="1194000" />
+      <workItem from="1627650128403" duration="1373000" />
+      <workItem from="1627657412069" duration="1783000" />
+      <workItem from="1627659214274" duration="1268000" />
+      <workItem from="1627670147464" duration="638000" />
+      <workItem from="1627676626784" duration="1795000" />
+      <workItem from="1627678444357" duration="1829000" />
+      <workItem from="1627680294367" duration="1107000" />
+      <workItem from="1627707125619" duration="1775000" />
+      <workItem from="1627709172769" duration="1794000" />
+      <workItem from="1627711008046" duration="2003000" />
+      <workItem from="1627713390881" duration="1793000" />
+      <workItem from="1627715206890" duration="1798000" />
+      <workItem from="1627717024825" duration="1767000" />
+      <workItem from="1627718840013" duration="1354000" />
+      <workItem from="1627721480235" duration="1826000" />
+      <workItem from="1627723333202" duration="1763000" />
+      <workItem from="1627726904805" duration="1792000" />
+      <workItem from="1627728721604" duration="1655000" />
+      <workItem from="1627730550433" duration="2360000" />
+      <workItem from="1627735935957" duration="1227000" />
+      <workItem from="1627738075622" duration="1689000" />
+      <workItem from="1627739923088" duration="1790000" />
+      <workItem from="1627748954474" duration="1290000" />
+      <workItem from="1627750779633" duration="897000" />
+      <workItem from="1627753517655" duration="2782000" />
+      <workItem from="1627759266040" duration="1707000" />
+      <workItem from="1627761231791" duration="1789000" />
+      <workItem from="1627763044554" duration="1791000" />
+      <workItem from="1627764862157" duration="1799000" />
+      <workItem from="1627766683015" duration="1794000" />
+      <workItem from="1627768500570" duration="1798000" />
+      <workItem from="1627770339591" duration="2304000" />
+      <workItem from="1627850022072" duration="2013000" />
+      <workItem from="1627852059725" duration="1790000" />
+      <workItem from="1627883654322" duration="1884000" />
+      <workItem from="1627885564771" duration="1795000" />
+      <workItem from="1627887380397" duration="1791000" />
+      <workItem from="1627889374969" duration="1780000" />
+      <workItem from="1627891233344" duration="1516000" />
+      <workItem from="1627896381922" duration="1243000" />
+      <workItem from="1627898191313" duration="1569000" />
+      <workItem from="1627900013516" duration="620000" />
+      <workItem from="1627900690505" duration="1116000" />
+      <workItem from="1627901830897" duration="2011000" />
+      <workItem from="1627903865718" duration="1829000" />
+      <workItem from="1627905722206" duration="2119000" />
+      <workItem from="1627909819461" duration="1833000" />
+      <workItem from="1627912099451" duration="2090000" />
+      <workItem from="1627914214507" duration="1794000" />
+      <workItem from="1627916175113" duration="1799000" />
+      <workItem from="1627930284508" duration="2190000" />
+      <workItem from="1627932835625" duration="1793000" />
+      <workItem from="1627934666585" duration="1855000" />
+      <workItem from="1627936638108" duration="1621000" />
+      <workItem from="1627970880299" duration="1708000" />
+      <workItem from="1627972613834" duration="633000" />
+      <workItem from="1627973497223" duration="29000" />
+      <workItem from="1627973661393" duration="748000" />
+      <workItem from="1627974474507" duration="1795000" />
+      <workItem from="1627976296768" duration="1794000" />
+      <workItem from="1627978112559" duration="1792000" />
+      <workItem from="1627979929203" duration="1793000" />
+      <workItem from="1627981746927" duration="1193000" />
+      <workItem from="1627986166965" duration="1190000" />
+      <workItem from="1627989440709" duration="1803000" />
+      <workItem from="1627991267655" duration="1502000" />
+      <workItem from="1627993080901" duration="1191000" />
+      <workItem from="1627996939776" duration="1196000" />
+      <workItem from="1628017122452" duration="1792000" />
+      <workItem from="1628018941414" duration="1791000" />
+      <workItem from="1628020774059" duration="1036000" />
+      <workItem from="1628022106653" duration="445000" />
+      <workItem from="1628022649790" duration="1671000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
